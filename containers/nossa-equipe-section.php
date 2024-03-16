@@ -19,12 +19,12 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(images/staff-1.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO18.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
-            <h3>Lloyd Wilson</h3>
-            <span class="position mb-2">Limpador de escritório</span>
+            <h3>Maria da Silva</h3>
+            <span class="position mb-2">Limpador(a) de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
                 <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
@@ -39,12 +39,12 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(images/staff-2.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO21.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
-            <h3>Lloyd Wilson</h3>
-            <span class="position mb-2">Limpador de escritório</span>
+            <h3>Maria da Silva</h3>
+            <span class="position mb-2">Limpador(a) de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
                 <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
@@ -59,11 +59,11 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(images/staff-3.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO28.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
-            <h3>Lloyd Wilson</h3>
+            <h3>José da Silva</h3>
             <span class="position mb-2">Limpador de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
