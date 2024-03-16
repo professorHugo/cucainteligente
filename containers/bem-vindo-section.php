@@ -10,7 +10,7 @@
               <div class="opening-hours">
                 <h4>Dia de Funcionamento:</h4>
                 <p class="pl-3">
-                  <span><strong>Seguda ? Sexta:</strong> 9h às 20h</span>
+                  <span><strong>Seguda à Sexta:</strong> 9h às 20h</span>
                   <span><strong>Sabádo:</strong> 9h às 17h</span>
                 </p>
                 <h4>Vacations:</h4>
