@@ -14,10 +14,10 @@
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-right"></span></div>
               <div class="text">
                 <div class="d-flex align-items-center mb-4">
-                  <div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+                  <div class="user-img" style="background-image: url(fotos/clientes/cliente1.jpg)"></div>
                   <div class="pl-3">
-                    <p class="name">Roger Scott</p>
-                    <span class="position">Gerente de Marketing</span>
+                    <p class="name">Maria da Silva</p>
+                    <span class="position">CEO</span>
                   </div>
                 </div>
                 <p class="mb-1">Avaliação do Cliente:
@@ -35,9 +35,9 @@
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-right"></span></div>
               <div class="text">
                 <div class="d-flex align-items-center mb-4">
-                  <div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+                  <div class="user-img" style="background-image: url(fotos/clientes/cliente1.jpg)"></div>
                   <div class="pl-3">
-                    <p class="name">Roger Scott</p>
+                    <p class="name">Maria da Silva</p>
                     <span class="position">Gerente de Marketing</span>
                   </div>
                 </div>
@@ -55,10 +55,10 @@
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-right"></span></div>
               <div class="text">
                 <div class="d-flex align-items-center mb-4">
-                  <div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
+                  <div class="user-img" style="background-image: url(fotos/clientes/cliente1.jpg)"></div>
                   <div class="pl-3">
-                    <p class="name">Roger Scott</p>
-                    <span class="position">Gerente de Marketing/span>
+                    <p class="name">Maria da Silva</p>
+                    <span class="position">Gerente de Marketing</span>
                   </div>
                 </div>
                 <p class="mb-1">Avaliação do Cliente:
@@ -70,6 +70,10 @@
               </div>
             </div>
           </div>
+
+
+
+          <!-- 
           <div class="item">
             <div class="testimony-wrap py-4">
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-right"></span></div>
@@ -110,6 +114,11 @@
               </div>
             </div>
           </div>
+           -->
+
+
+
+
         </div>
       </div>
     </div>
