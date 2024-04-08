@@ -47,7 +47,7 @@
           <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="5">0</strong>
+                <strong class="number" data-number="3">0</strong>
               </div>
               <div class="text">
                 <span>Anos de <br>Experiências</span>
@@ -57,7 +57,7 @@
           <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="500">0</strong>
+                <strong class="number" data-number="100">0</strong>
               </div>
               <div class="text">
                 <span>Clientes <br>Satisfeitos</span>
@@ -67,7 +67,7 @@
           <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="10">0</strong>
+                <strong class="number" data-number="3">0</strong>
               </div>
               <div class="text">
                 <span>Predios <br>Limpos</span>
