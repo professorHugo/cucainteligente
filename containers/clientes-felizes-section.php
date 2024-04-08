@@ -16,7 +16,7 @@
                 <div class="d-flex align-items-center mb-4">
                   <div class="user-img" style="background-image: url(fotos/clientes/cliente1.jpg)"></div>
                   <div class="pl-3">
-                    <p class="name">Maria da Silva</p>
+                    <p class="name">Cristiane</p>
                     <span class="position">CEO</span>
                   </div>
                 </div>
@@ -30,6 +30,8 @@
               </div>
             </div>
           </div>
+
+
           <div class="item">
             <div class="testimony-wrap py-4">
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-right"></span></div>
@@ -37,7 +39,7 @@
                 <div class="d-flex align-items-center mb-4">
                   <div class="user-img" style="background-image: url(fotos/clientes/cliente1.jpg)"></div>
                   <div class="pl-3">
-                    <p class="name">Maria da Silva</p>
+                    <p class="name">Cristiane</p>
                     <span class="position">Gerente de Marketing</span>
                   </div>
                 </div>
@@ -50,6 +52,7 @@
               </div>
             </div>
           </div>
+          
           <div class="item">
             <div class="testimony-wrap py-4">
               <div class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-right"></span></div>
@@ -57,7 +60,7 @@
                 <div class="d-flex align-items-center mb-4">
                   <div class="user-img" style="background-image: url(fotos/clientes/cliente1.jpg)"></div>
                   <div class="pl-3">
-                    <p class="name">Maria da Silva</p>
+                    <p class="name">Cristiane</p>
                     <span class="position">Gerente de Marketing</span>
                   </div>
                 </div>

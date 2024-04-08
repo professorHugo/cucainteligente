@@ -4,7 +4,7 @@
       <div class="col-12 col-md d-flex align-items-center">
         <p class="mb-0 phone"><span class="mailus">Whatsapp:</span>
           <a href="https://api.whatsapp.com/send?phone=5511971374144&text=Olá, Gostaria de contratar seus serviços">(11) 97137-4144</a> 
-          or <span class="mailus">email:</span> <a href="mailto:contato@cucainteligente.com.br">email@email.com</a>
+          ou <span class="mailus">email:</span> <a href="mailto:gicelma@cucainteligente.com.br">gicelma@cucainteligente.com.br</a>
         </p>
       </div>
       <div class="col-12 col-md d-flex justify-content-md-end">

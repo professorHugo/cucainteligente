@@ -24,7 +24,8 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6 col-lg-4 services ftco-animate">
+
+      <!-- <div class="col-md-6 col-lg-4 services ftco-animate">
         <div class="d-block d-flex">
           <div class="icon d-flex justify-content-center align-items-center">
             <span class="flaticon-pool"></span>
@@ -40,8 +41,9 @@
             <?php } ?>
           </div>
         </div>
-      </div>
-      <div class="col-md-6 col-lg-4 services ftco-animate">
+      </div> -->
+
+      <!-- <div class="col-md-6 col-lg-4 services ftco-animate">
         <div class="d-block d-flex">
           <div class="icon d-flex justify-content-center align-items-center">
             <span class="flaticon-rug"></span>
@@ -57,7 +59,7 @@
             <?php } ?>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="col-md-6 col-lg-4 services ftco-animate">
         <div class="d-block d-flex">
@@ -77,7 +79,7 @@
         </div>
       </div>
 
-      <div class="col-md-6 col-lg-4 services ftco-animate">
+      <!-- <div class="col-md-6 col-lg-4 services ftco-animate">
         <div class="d-block d-flex">
           <div class="icon d-flex justify-content-center align-items-center">
             <span class="flaticon-garden"></span>
@@ -93,7 +95,9 @@
             <?php } ?>
           </div>
         </div>
-      </div>
+      </div> -->
+
+
       <div class="col-md-6 col-lg-4 services ftco-animate">
         <div class="d-block d-flex">
           <div class="icon d-flex justify-content-center align-items-center">

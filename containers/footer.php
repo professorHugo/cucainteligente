@@ -14,6 +14,32 @@
       </div>
 
       <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+        <h2 class=""></h2>
+        <div class="block-21 mb-4 d-flex">
+          <a class="img mr-4 rounded"></a>
+          <div class="text">
+            <h3 class="heading"><a href="#"></a></h3>
+            <div class="meta">
+              <div><a href="#"><span class="icon-calendar"></span> </a></div>
+              <div><a href="#"><span class="icon-person"></span> </a></div>
+              <div><a href="#"><span class="icon-chat"></span></a></div>
+            </div>
+          </div>
+        </div>
+        <div class="block-21 mb-4 d-flex">
+          <a class="img mr-4 rounded"></a>
+          <div class="text">
+            <h3 class="heading"><a href="#"></a></h3>
+            <div class="meta">
+              <div><a href="#"><span class="icon-calendar"></span> </a></div>
+              <div><a href="#"><span class="icon-person"></span> </a></div>
+              <div><a href="#"><span class="icon-chat"></span></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
         <h2 class="footer-heading">Últimas notícias</h2>
         <div class="block-21 mb-4 d-flex">
           <a class="img mr-4 rounded" style="background-image: url(images/image_1.jpg);"></a>
@@ -37,7 +63,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="col-md-6 col-lg-3 pl-lg-5 mb-4 mb-md-0">
         <h2 class="footer-heading">Links Rápidos</h2>
@@ -54,14 +80,14 @@
         <h2 class="footer-heading">Tem alguma dúvida?</h2>
         <div class="block-23 mb-3">
           <ul>
-            <li><span class="icon fa fa-map-marker"></span><span class="text">Rua Santo luiz- 235, São Paulo, BR</span></li>
+            <li><span class="icon fa fa-map-marker"></span><span class="text">Rua - 235, São Paulo, BR</span></li>
             <li>
               <a href="https://api.whatsapp.com/send?phone=5511971374144&text=Olá, Gostaria de contratar seus serviços">
                 <span class="icon fa fa-whatsapp"></span><span class="text">+55 11 97137-4414</span>
               </a>
             </li>
-            <li><a href="#"><span class="icon fa fa-paper-plane"></span>
-                <span class="text">info@email.com</span></a></li>
+            <li><a href="mailto:gicelma@cucainteligente.com.br"><span class="icon fa fa-paper-plane"></span>
+                <span class="text">gicelma@cucainteligente.com.br</span></a></li>
           </ul>
         </div>
       </div>

@@ -10,7 +10,7 @@
                   <span class="fa fa-map-marker"></span>
                 </div>
                 <div class="text">
-                  <p><span>Endereço:</span> Rua Santo luiz- 235
+                  <p><span>Endereço:</span> <br> Rua - 235
                     , São Paulo, BR</p>
                 </div>
               </div>
@@ -21,7 +21,7 @@
                   <span class="fa fa-phone"></span>
                 </div>
                 <div class="text">
-                  <p><span>Telefone:</span> <a href="tel://1234567920">+55 11 955269875</a></p>
+                  <p><span>Telefone:</span><br> <a href="tel://+5511971374144">+55 11 971374144</a></p>
                 </div>
               </div>
             </div>
@@ -31,7 +31,7 @@
                   <span class="fa fa-paper-plane"></span>
                 </div>
                 <div class="text">
-                  <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@email.com</a>
+                  <p><span>Email:</span> <a href="mailto:gicelma@cucainteligente.com.br">gicelma@cucainteligente.com.br</a>
                   </p>
                 </div>
               </div>
@@ -42,12 +42,14 @@
                   <span class="fa fa-globe"></span>
                 </div>
                 <div class="text">
-                  <p><span>Website</span> <a href="#">yoursite.com</a></p>
+                  <p><span>Website</span><br> <a href="https://cucainteligente.com.br" target="_blank">cucainteligente.com.br</a></p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row no-gutters">
+
+
+          <!-- <div class="row no-gutters">
             <div class="col-md-7">
               <div class="contact-wrap w-100 p-md-5 p-4">
                 <h3 class="mb-4">Contate-nos</h3>
@@ -97,13 +99,13 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col-md-12">
         <div class="map">
           <div class="col-12" style="padding: 1rem 0">
             <p class="rotulo-mapa" style="text-align: center; padding: 2rem; background: #2b98f0; color: #fff">Veja nossa Localização</p>
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1536.682086435639!2d-46.506656469557605!3d-23.644950068486995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce683ac1012837%3A0x34ebdea623e22e32!2sR.%20Sarambe%2C%2061%20-%20Parque%20Jo%C3%A3o%20Ramalho%2C%20Santo%20Andr%C3%A9%20-%20SP%2C%2009290-190!5e0!3m2!1spt-BR!2sbr!4v1710610303124!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1536.682086435639!2d-46.506656469557605!3d-23.644950068486995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce683ac1012837%3A0x34ebdea623e22e32!2sR.%20Sarambe%2C%2061%20-%20Parque%20Jo%C3%A3o%20Ramalho%2C%20Santo%20Andr%C3%A9%20-%20SP%2C%2009290-190!5e0!3m2!1spt-BR!2sbr!4v1710610303124!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
         </div>
         <!-- <div id="map" class="map">
         </div> -->
