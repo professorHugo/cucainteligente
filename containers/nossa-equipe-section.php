@@ -63,7 +63,7 @@
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
-            <h3>José da Silva</h3>
+            <h3>Edilson</h3>
             <span class="position mb-2">Limpador de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
