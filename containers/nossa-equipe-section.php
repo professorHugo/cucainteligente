@@ -14,7 +14,7 @@
             sempre atentos às necessidades dos nossos clientes. Confie na nossa equipe para cuidar do
             seu espaço e proporcionar um ambiente limpo e confortável. Entre em contato conosco hoje
             mesmo e descubra como podemos ajudá-lo.</p>
-          <p><a href="#" class="btn btn-secondary">Ver toda equipe</a></p>
+          <!-- <p><a href="#" class="btn btn-secondary">Ver toda equipe</a></p> -->
         </div>
       </div>
 
