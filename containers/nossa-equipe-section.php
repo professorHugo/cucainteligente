@@ -27,7 +27,7 @@
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
             <h3>Francisca</h3>
-            <span class="position mb-2">Limpador(a) de escritório</span>
+            <span class="position mb-2">Limpadora de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
                 <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
@@ -49,7 +49,7 @@
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
             <h3>Zenilda</h3>
-            <span class="position mb-2">Limpador(a) de escritório</span>
+            <span class="position mb-2">Limpadora de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
                 <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
@@ -93,7 +93,30 @@
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
             <h3>Carol</h3>
-            <span class="position mb-2">Limpador(a) de escritório</span>
+            <span class="position mb-2">Limpadora de escritório</span>
+            <div class="faded">
+              <ul class="ftco-social text-center">
+                <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li> -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12" style="margin-top: 20px;"></div>
+
+      <div class="col-md-4 col-lg-3 ftco-animate d-flex">
+        <div class="staff">
+          <div class="img-wrap d-flex align-items-stretch">
+            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO32.jpg);">
+            </div>
+          </div>
+          <div class="text pt-3 px-3 pb-4 text-center">
+            <h3>Bárbara</h3>
+            <span class="position mb-2">Limpadora de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
                 <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
@@ -107,15 +130,39 @@
       </div>
 
 
+      
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO32.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO34-GIRLENE.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
-            <h3>Bárbara</h3>
-            <span class="position mb-2">Limpador(a) de escritório</span>
+            <h3>Girlene</h3>
+            <span class="position mb-2">Limpadora de escritório</span>
+            <div class="faded">
+              <ul class="ftco-social text-center">
+                <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li> -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="col-md-4 col-lg-3 ftco-animate d-flex">
+        <div class="staff">
+          <div class="img-wrap d-flex align-items-stretch">
+            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO35-JUDITE.jpg);">
+            </div>
+          </div>
+          <div class="text pt-3 px-3 pb-4 text-center">
+            <h3>Judite</h3>
+            <span class="position mb-2">Limpadora de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
                 <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>

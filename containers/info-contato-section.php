@@ -10,8 +10,7 @@
                   <span class="fa fa-map-marker"></span>
                 </div>
                 <div class="text">
-                  <p><span>Endereço:</span> <br> Rua - 235
-                    , São Paulo, BR</p>
+                  <p><span>Endereço:</span> <br> Avenida Engenheiro Heitor Antonio eiras Garcia número, 7801, <br>São Paulo, BR</p>
                 </div>
               </div>
             </div>
@@ -105,7 +104,7 @@
           <div class="col-12" style="padding: 1rem 0">
             <p class="rotulo-mapa" style="text-align: center; padding: 2rem; background: #2b98f0; color: #fff">Veja nossa Localização</p>
           </div>
-          <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1536.682086435639!2d-46.506656469557605!3d-23.644950068486995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce683ac1012837%3A0x34ebdea623e22e32!2sR.%20Sarambe%2C%2061%20-%20Parque%20Jo%C3%A3o%20Ramalho%2C%20Santo%20Andr%C3%A9%20-%20SP%2C%2009290-190!5e0!3m2!1spt-BR!2sbr!4v1710610303124!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.979889382358!2d-46.79641492533743!3d-23.605054178769805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce54fd07f1b529%3A0x5d901c1ec698418c!2sE%20Garcia%20-%20Av.%20Eng.%20Heitor%20Ant%C3%B4nio%20Eiras%20Garcia%2C%207801%20-%20Jardim%20Esmeralda%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2055642-200!5e0!3m2!1spt-BR!2sbr!4v1713561171833!5m2!1spt-BR!2sbr" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <!-- <div id="map" class="map">
         </div> -->

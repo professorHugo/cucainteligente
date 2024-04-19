@@ -80,7 +80,7 @@
         <h2 class="footer-heading">Tem alguma dúvida?</h2>
         <div class="block-23 mb-3">
           <ul>
-            <li><span class="icon fa fa-map-marker"></span><span class="text">Rua - 235, São Paulo, BR</span></li>
+            <li><span class="icon fa fa-map-marker"></span><span class="text">Avenida Engenheiro Heitor Antonio eiras Garcia número, 7801, São Paulo, BR</span></li>
             <li>
               <a href="https://api.whatsapp.com/send?phone=5511971374144&text=Olá, Gostaria de contratar seus serviços">
                 <span class="icon fa fa-whatsapp"></span><span class="text">+55 11 97137-4414</span>
