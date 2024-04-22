@@ -248,6 +248,76 @@
             </div>
           </div>
         </div>
+  
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video1.jpg);">
+            <a href="fotos/VIDEO1.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="fotos/VIDEO1.mp4" title="Limpeza em Geral" role="button" class="videos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video2.jpg);">
+            <a href="fotos/VIDEO2.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="fotos/VIDEO2.mp4" title="Limpeza de Janelas" role="button" class="videos">Limpeza de Janelas</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video4.jpg);">
+            <a href="fotos/VIDEO4.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="fotos/VIDEO4.mp4" title="Limpeza Geral Finalizada" role="button" class="videos">Limpeza Geral Finalizada</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video4.jpg);">
+            <a href="fotos/VIDEO5.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="fotos/VIDEO5.mp4" title="Limpeza Geral Finalizada" role="button" class="videos">Limpeza Geral Finalizada</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video7.jpg);">
+            <a href="fotos/VIDEO7.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="fotos/VIDEO7.mp4" title="Limpeza Geral" role="button" class="videos">Limpeza Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
 
       <?php } ?>
 

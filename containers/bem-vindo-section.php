@@ -13,7 +13,7 @@
                   <span><strong>Seguda à Sexta:</strong> 9h às 20h</span>
                   <span><strong>Sabádo:</strong> 9h às 17h</span>
                 </p>
-                <h4>Vacations:</h4>
+                <h4>Não trabalhamos:</h4>
                 <p class="pl-3">
                   <span>Todos os Domingos</span>
                   <span>Todos os feriados oficiais</span>
@@ -22,7 +22,7 @@
             </div>
             <div class="desc p-4 bg-secondary">
               <h3 class="heading">Em caso de emergência</h3>
-              <span class="phone">(11) 989654236</span>
+              <span class="phone"> (11) 97137-4144</span>
             </div>
           </div>
         </div>
@@ -47,9 +47,10 @@
           <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
+                Total de
                 <strong class="number" data-number="3">0</strong>
               </div>
-              <div class="text">
+              <div class="text"> 
                 <span>Anos de <br>Experiências</span>
               </div>
             </div>
@@ -57,7 +58,7 @@
           <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
-                <strong class="number" data-number="100">0</strong>
+                Mais de <strong class="number" data-number="100">0</strong>
               </div>
               <div class="text">
                 <span>Clientes <br>Satisfeitos</span>
@@ -67,6 +68,7 @@
           <div class="col-md-6 col-lg-4 d-flex justify-content-center counter-wrap ftco-animate">
             <div class="block-18">
               <div class="text">
+                Total de
                 <strong class="number" data-number="3">0</strong>
               </div>
               <div class="text">
