@@ -518,6 +518,174 @@
 
 
         <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO50.jpg);">
+            <a href="./fotos/FOTO50.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO50.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO51.jpg);">
+            <a href="./fotos/FOTO51.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO51.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO52.jpg);">
+            <a href="./fotos/FOTO52.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO52.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO53.jpg);">
+            <a href="./fotos/FOTO53.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO53.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO54.jpg);">
+            <a href="./fotos/FOTO54.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO54.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO55.jpg);">
+            <a href="./fotos/FOTO55.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO55.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO56.jpg);">
+            <a href="./fotos/FOTO56.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO56.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO57.jpg);">
+            <a href="./fotos/FOTO57.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO57.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO58.jpg);">
+            <a href="./fotos/FOTO58.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO58.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO59.jpg);">
+            <a href="./fotos/FOTO59.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="./fotos/FOTO59.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      <!-- Repetição a partir da foto 60 -->
+        <?php for($foto = 60; $foto <= 96; $foto++){ ?>
+          <div class="col-md-6 col-lg-3 ftco-animate">
+            <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO<?=$foto?>.jpg);">
+              <a href="./fotos/FOTO<?=$foto?>.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
+                <span class="fa fa-expand"></span>
+              </a>
+              <div class="desc w-100 px-4 text-center pt-5 mt-5">
+                <div class="text w-100 mb-3 mt-4">
+                  <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                  <h2><a href="./fotos/FOTO<?=$foto?>.jpg" title="Limpeza em Geral" role="button" class="servicos">Limpeza em Geral</a></h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        <?php } ?>
+
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
           <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video9.jpg);">
             <a href="fotos/VIDEO9.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
               <span class="fa fa-expand"></span>
@@ -652,6 +820,20 @@
               <div class="text w-100 mb-3 mt-4">
                 <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
                 <h2><a href="fotos/VIDEO18.mp4" title="Limpeza Geral" role="button" class="videos">Limpeza Geral</a></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video19.jpg);">
+            <a href="fotos/VIDEO19.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
+              <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4 text-center pt-5 mt-5">
+              <div class="text w-100 mb-3 mt-4">
+                <!-- <h2><a href="work-single.html">Limpeza em geral</a></h2> -->
+                <h2><a href="fotos/VIDEO19.mp4" title="Limpeza Geral" role="button" class="videos">Limpeza Geral</a></h2>
               </div>
             </div>
           </div>
