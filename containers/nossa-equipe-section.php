@@ -22,7 +22,7 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO18.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO01.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
@@ -44,7 +44,7 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO21.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO02.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
@@ -66,7 +66,7 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO28.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO03.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
@@ -88,7 +88,7 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO33.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO04.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
@@ -111,7 +111,7 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO32.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO05.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
@@ -134,7 +134,7 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO34-GIRLENE.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO06.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
@@ -157,11 +157,33 @@
       <div class="col-md-4 col-lg-3 ftco-animate d-flex">
         <div class="staff">
           <div class="img-wrap d-flex align-items-stretch">
-            <div class="img align-self-stretch" style="background-image: url(fotos/FOTO35-JUDITE.jpg);">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO07.jpg);">
             </div>
           </div>
           <div class="text pt-3 px-3 pb-4 text-center">
             <h3>Judite</h3>
+            <span class="position mb-2">Limpadora de escritório</span>
+            <div class="faded">
+              <ul class="ftco-social text-center">
+                <!-- <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li> -->
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-md-4 col-lg-3 ftco-animate d-flex">
+        <div class="staff">
+          <div class="img-wrap d-flex align-items-stretch">
+            <div class="img align-self-stretch" style="background-image: url(fotos/equipe/FOTO08.jpg);">
+            </div>
+          </div>
+          <div class="text pt-3 px-3 pb-4 text-center">
+            <h3>&nbsp;</h3>
             <span class="position mb-2">Limpadora de escritório</span>
             <div class="faded">
               <ul class="ftco-social text-center">
