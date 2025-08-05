@@ -668,7 +668,7 @@
         </div>
 
       <!-- Repetição a partir da foto 60 -->
-        <?php for($foto = 60; $foto <= 142; $foto++){ ?>
+        <?php for($foto = 60; $foto <= 143; $foto++){ ?>
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="work img d-flex align-items-center" style="background-image: url(./fotos/FOTO<?=$foto?>.jpg);">
               <a href="./fotos/FOTO<?=$foto?>.jpg" class="icon image-popup d-flex justify-content-center align-items-center">
@@ -685,7 +685,7 @@
         <?php } ?>
 
 
-        <?php for($video = 9; $video <= 46; $video++){ ?>
+        <?php for($video = 9; $video <= 47; $video++){ ?>
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="work img d-flex align-items-center" style="background-image: url(./fotos/screen-video<?=$video?>.jpg);">
               <a href="fotos/VIDEO<?=$video?>.mp4" class="icon image-popup d-flex justify-content-center align-items-center">
